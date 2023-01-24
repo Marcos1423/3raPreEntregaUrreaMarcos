@@ -1,0 +1,515 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #d2cfc000;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+.body{
+    background-image: url(./Imagenes/Fondo\ edit\ 1.png);
+}
+.fondo-header{
+    border: #4A6762;
+    width: 100%;
+}
+.banner{
+    height: 426px;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.buscar{
+    font-family: 'Oooh Baby', cursive;
+    color: #737373;
+    margin-left: 580px;
+    margin-top: 32px;
+    position: absolute;
+    font-size: 20px;
+    background-color: #d9d9d9c5;
+    border-radius: 50px;
+    border: #73737300;
+}
+.logo{
+    margin-left: 21px;
+    position: absolute;
+    background-color: #73737300;
+}
+.buscar-libro{
+    background-color: #4a676200;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: 1020px;
+}
+.configuracion{
+    background-color: #73737300;
+    margin-left: 1100px;
+    margin-top: 23px;
+    position: absolute;
+}
+.mi-perfil{
+    background-color: #73737300;
+    margin-top: 23px;
+    position: absolute;
+    margin-left: 1180px;
+}
+.mas{
+    background-color: #73737300;
+    margin-top: 23px;
+    position: absolute;
+    margin-left: 1260px;
+}
+.titulo-1{
+    color: black;
+    margin-left: 80px;
+    margin-top: 60px;
+    font-size: 64px;
+}
+.parrafo-1{
+    margin-left: 80px;
+    color: black;
+}
+.titulo-2{
+    color: black;
+    margin-left: 80px;
+    font-size: 64px;
+    margin-top: 40px;
+}
+.libros-destacados{
+    margin-top: 15px;
+    margin-left: 152px;
+}
+.libro-1{
+    font-size: 20px;
+    margin-left: 280px;
+    margin-top: 277px;
+    position: absolute;
+    background-color: #73737300;
+}
+.libro-2{
+    font-size: 20px;
+    margin-left: 640px;
+    margin-top: 277px;
+    position: absolute;
+    background-color: #73737300;
+}
+.libro-3{
+    font-size: 20px;
+    margin-left: 927px;
+    margin-top: 277px;
+    position: absolute;
+    background-color: #73737300;
+}
+.comprar-1{
+    background-color: #4A6762 ;
+    margin-left: 310px;
+    margin-top: 322px;
+    color: white;
+    border-radius: 10px;
+    position: absolute;
+    border: #4a676200;
+    width: 130px;
+    height: 29px;
+}
+.comprar-2{
+    background-color: #4A6762 ;
+    margin-left: 620px;
+    margin-top: 322px;
+    color: white;
+    border-radius: 10px;
+    position: absolute;
+    border: #4a676200;
+    width: 130px;
+    height: 29px;
+}
+.comprar-3{
+    background-color: #4A6762 ;
+    margin-left: 935px;
+    margin-top: 322px;
+    color: white;
+    border-radius: 10px;
+    position: absolute;
+    border: #4a676200;
+    width: 130px;
+    height: 29px;
+}
+.logo-footer{
+    margin-top: 68px;
+    position: absolute;
+    margin-left: 34px;
+}
+.fondo-footer{
+    margin-top: 43px;
+    width: 100%;
+    height: 149px;
+    background-color: rgba(0, 0, 0, 0.473);
+    border: #4a676200;
+    position: absolute;
+}
+.iconos-footer{
+    margin-top: 98px;
+    margin-left: 592px;
+    position: absolute;
+}
+.politicas-de-privacidad{
+    font-size: 20px;
+    margin-top: 72px;
+    margin-left: 900px;
+    position: absolute;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+}
+.quienes-somos{
+    font-size: 20px;
+    margin-top: 108px;
+    margin-left: 900px;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+    position: absolute;
+}
+.preguntas-frecuentes{
+    font-size: 20px;
+    margin-top: 144px;
+    margin-left: 900px;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+    position: absolute;
+}
+.buscar-libro-activo{
+    background-color: #4a676200;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: 1020px;
+}
+
+.body{
+    background-image: url(./Imagenes/Fondo\ edit\ 1.png) ;
+}
+.titulo{
+    font-size: 64px;
+    margin-top: 48px;
+    margin-left: 550px;
+}
+
+.libros{
+    margin-top: 100px;
+    margin-left: 252px;
+    position: absolute;
+}
+.comprar-4{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 20px;
+    border: #4a676200;
+    position: absolute;
+    margin-left: 384px;
+    margin-top: 380px;
+}
+.ver-publicacion-1{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 18px;
+    border: #4a676200;
+    position: absolute;
+    margin-left: 384px;
+    margin-top: 450px;
+}
+.comprar-5{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 20px;
+    border: #4a676200;
+    position: absolute;
+    margin-left:698px;
+    margin-top: 380px;
+}
+.ver-publicacion-2{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 18px;
+    border: #4a676200;
+    position: absolute;
+    margin-left: 698px;
+    margin-top: 450px;
+}
+.comprar-6{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 20px;
+    border: #4a676200;
+    position: absolute;
+    margin-left:1028px;
+    margin-top: 380px;
+}
+.ver-publicacion-3{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 18px;
+    border: #4a676200;
+    position: absolute;
+    margin-left: 1028px;
+    margin-top: 450px;
+}
+.comprar-7{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 20px;
+    border: #4a676200;
+    position: absolute;
+    margin-left: 384px;
+    margin-top: 840px;
+}
+.ver-publicacion-4{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 18px;
+    border: #4a676200;
+    position: absolute;
+    margin-left: 384px;
+    margin-top: 920px;
+}
+.comprar-8{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 20px;
+    border: #4a676200;
+    position: absolute;
+    margin-left:698px;
+    margin-top: 840px;
+}
+.ver-publicacion-5{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 18px;
+    border: #4a676200;
+    position: absolute;
+    margin-left: 698px;
+    margin-top: 920px;
+}
+.comprar-9{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 20px;
+    border: #4a676200;
+    position: absolute;
+    margin-left:1028px;
+    margin-top: 840px;
+}
+.ver-publicacion-6{
+    border-radius: 10px;
+    background-color: #4A6762;
+    width: 130px;
+    height: 29px;
+    color: white;
+    font-size: 18px;
+    border: #4a676200;
+    position: absolute;
+    margin-left: 1028px;
+    margin-top: 910px;
+}
+.filtros{
+    margin-left: 60px;
+    margin-top: 40px;
+    font-size: 40px;
+}
+.filtros-1{
+    margin-left: 50px;
+}
+.logo-footer-2{
+    margin-top: 750px;
+    position: absolute;
+    margin-left: 34px;
+}
+.fondo-footer-2{
+    margin-top: 705px;
+    width: 100%;
+    height: 149px;
+    background-color: rgba(0, 0, 0, 0.473);
+    border: #4a676200;
+    position: absolute;
+}
+.iconos-footer-2{
+    margin-top: 770px;
+    margin-left: 592px;
+    position: absolute;
+}
+.politicas-de-privacidad-2{
+    font-size: 20px;
+    margin-top: 740px;
+    margin-left: 900px;
+    position: absolute;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+}
+.quienes-somos-2{
+    font-size: 20px;
+    margin-top: 780px;
+    margin-left: 900px;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+    position: absolute;
+}
+.preguntas-frecuentes-2{
+    font-size: 20px;
+    margin-top: 820px;
+    margin-left: 900px;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+    position: absolute;
+}
+.titulo-mi-perfil{
+    font-size: 64px;
+    margin-top: 50px;
+    margin-left: 580px;
+}
+.fondo-mi-perfil{
+    background-image: url(./Imagenes/Fondo\ edit\ 1.png);
+}
+.perfil-info{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 350px;
+}
+.nombre-usuario{
+    margin-top: 479px;
+    margin-left: 500px;
+    font-size: 64px;
+    color: white;
+    position: absolute;
+}
+.edad-usuario{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 640px;
+}
+.ciudad-usuario{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 680px;
+}
+.biografia-titulo{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 760px;
+}
+.biografia-usuario{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 820px;
+    background-color: rgba(0, 0, 0, 0.486);
+    border-radius: 10px;
+    height: 80px;
+    width: 500px;
+}
+.cerrar-sesion{
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 850px;
+    background-color: rgba(0, 0, 0, 0.322);
+    border-radius: 10px;
+    height: 30px;
+}
+.cerrar-sesion-icono{
+    position: absolute;
+    margin-left: 1230px;
+    margin-top: 850px;
+    background-color: rgba(0, 0, 0, 0.322);
+    border-radius: 10px;
+    height: 30px;
+}
+.boton-editar-perfil{
+    margin-top: 950px;
+    margin-left: 590px;
+    position: absolute;
+}
+.editar-perfil{
+    margin-top: 955px;
+    margin-left: 635px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+}
+.logo-footer-3{
+    margin-top: 1150px;
+    position: absolute;
+    margin-left: 34px;
+}
+.fondo-footer-3{
+    margin-top: 1100px;
+    width: 100%;
+    height: 149px;
+    background-color: rgba(0, 0, 0, 0.473);
+    border: #4a676200;
+    position: absolute;
+}
+.iconos-footer-3{
+    margin-top: 1165px;
+    margin-left: 592px;
+    position: absolute;
+}
+.politicas-de-privacidad-3{
+    font-size: 20px;
+    margin-top: 1130px;
+    margin-left: 900px;
+    position: absolute;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+}
+.quienes-somos-3{
+    font-size: 20px;
+    margin-top: 1170px;
+    margin-left: 900px;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+    position: absolute;
+}
+.preguntas-frecuentes-3{
+    font-size: 20px;
+    margin-top: 1210px;
+    margin-left: 900px;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+    position: absolute;
+}
